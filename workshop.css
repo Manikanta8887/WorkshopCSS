@@ -46,6 +46,7 @@ margin-top: 50%;
     box-shadow: 4px 4px 3px green;
     border-radius: 5%;
     margin-top: 80px;
+    position:-webkit-sticky;
     position: sticky;
     top: 60px;
     z-index: 1;
